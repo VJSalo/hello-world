@@ -1,2 +1,4 @@
-# hello-world
-Workshop3 Activity 3.1 Example 1: Acceptance Tests
+this is the third edit
+blah blah blah
+trying this for the third time
+hope it works
